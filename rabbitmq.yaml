@@ -1,0 +1,5 @@
+pod:
+  replicas:
+    server: 3
+volume:
+  enabled: false

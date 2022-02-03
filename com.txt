@@ -1,0 +1,2 @@
+kubectl label nodes $nodename openstack-compute-node=enabled
+kubectl label nodes $nodename linuxbridge=enabled

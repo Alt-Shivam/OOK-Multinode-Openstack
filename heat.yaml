@@ -1,0 +1,6 @@
+pod:
+  replicas:
+    api: 1
+    cfn: 1
+    cloudwatch: 1
+    engine: 1
