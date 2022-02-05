@@ -5,4 +5,4 @@ network:
   host_namespace: true
 pod:
   replicas:
-    error_page: 3
+    error_page: 2
