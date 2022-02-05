@@ -2,4 +2,4 @@ storage: pvc
 pod:
   replicas:
     api: 1
-    registry: 3
+    registry: 2
