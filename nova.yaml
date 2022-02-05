@@ -3,9 +3,9 @@ network:
     - linuxbridge
 pod:
   replicas:
-    osapi: 3
-    conductor: 3
-    consoleauth: 3
+    osapi: 2
+    conductor: 2
+    consoleauth: 2
 bootstrap:
   wait_for_computes:
     enabled: true
