@@ -1,5 +1,5 @@
 pod:
   replicas:
-    server: 3
+    server: 2
 volume:
   enabled: false
