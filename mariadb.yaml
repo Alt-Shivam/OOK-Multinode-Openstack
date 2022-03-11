@@ -6,5 +6,3 @@ volume:
   enabled: false
   use_local_path_for_single_pod_cluster:
     enabled: true
-
-
